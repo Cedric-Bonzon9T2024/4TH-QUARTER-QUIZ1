@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lavender;
+}
+
+header {
+    background-color: #0066cc;
+    color: white;
+    padding: 20px;
+}
+
+h1 {
+    margin: 0;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+}
+
+footer a {
+    color: #66ccff;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+#bmiResult {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-top: 20px;
+}
